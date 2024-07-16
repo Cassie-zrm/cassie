@@ -6,7 +6,7 @@ export default defineConfig({
   description: "cassie Site",
   // logo: '',
   outDir: 'docs',
-  base: '/docs/',
+  base: '/cassie/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
