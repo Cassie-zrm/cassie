@@ -5,6 +5,7 @@ export default defineConfig({
   title: "cassie-zrm",
   description: "cassie Site",
   // logo: '',
+  outDir: 'docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
