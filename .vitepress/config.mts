@@ -4,11 +4,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "cassie-zrm",
   description: "cassie Site",
-  // logo: '',
   outDir: 'docs',
   base: '/cassie/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/img.gif',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'demo', link: '/markdown-examples' }

@@ -6,9 +6,11 @@ hero:
   name: "cassie github"
   text: "cassie github desc"
   tagline: My great project tagline
+  image: 
+    src: /img.gif
   actions:
     - theme: brand
-      text: 简介
+      text: 按钮
       link: /markdown-examples
     - theme: alt
       text: API Examples
